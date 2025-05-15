@@ -1,0 +1,13 @@
+Subjective:  
+The patient reports ongoing abdominal pain that started a few months ago. They underwent an initial ultrasound scan for gallstones, which led to a follow-up CT scan due to findings that were "suspicious" on the pancreas. The patient expresses surprise and concern upon learning about the potential for pancreatic cancer, stating, "I didn't expect that... I'm only 47." They inquire about the pancreas and treatment options if cancer is confirmed. The patient prefers to attend follow-up appointments alone.
+
+Objective:  
+Objective information limited to dialogue. The patient has undergone two scans: an ultrasound and a CT scan, with the latter showing "something" on the pancreas that raises concern for potential cancer.
+
+Assessment:  
+Diagnostic impression: Suspicious findings on the pancreas, with potential concern for pancreatic cancer. Further evaluation by a specialist is warranted to determine the nature of the findings.
+
+Plan:  
+1. Refer the patient to a specialist for further evaluation of the pancreatic findings.
+2. Provide the patient with educational materials regarding pancreatic cancer for review before the next appointment.
+3. Schedule a follow-up appointment for further discussion and to address any questions after the patient has had time to process the information.
