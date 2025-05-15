@@ -1,13 +1,24 @@
-Subjective:  
-The patient reports ongoing abdominal pain that started a few months ago. They underwent an initial ultrasound scan for gallstones, which led to a follow-up CT scan due to findings that were "suspicious" on the pancreas. The patient expresses surprise and concern upon learning about the potential for pancreatic cancer, stating, "I didn't expect that... I'm only 47." They inquire about the pancreas and treatment options if cancer is confirmed. The patient prefers to attend follow-up appointments alone.
+Client Full Name: Information not found in transcript.
+Client Date of Birth: Information not found in transcript.
+Date of Service: Information not found in transcript.
+Exact start time and end time: Information not found in transcript.
+Session Location: Information not found in transcript.
+Diagnosis: See Assessment details below.
 
-Objective:  
-Objective information limited to dialogue. The patient has undergone two scans: an ultrasound and a CT scan, with the latter showing "something" on the pancreas that raises concern for potential cancer.
+Subjective:
+The patient reports experiencing persistent abdominal pain for the past few months. They initially consulted with Dr. Donovan, who ordered a scan for gallstones. The patient was surprised to receive a call for a follow-up scan without a clear explanation. The patient expresses concern and surprise upon learning about a suspicious finding on the pancreas, fearing it might be cancer. The patient is 47 years old and is visibly shocked by the potential diagnosis. They inquire about the nature of the pancreas and possible treatment options, including surgical removal if cancer is confirmed. The patient prefers to attend future appointments alone.
 
-Assessment:  
-Diagnostic impression: Suspicious findings on the pancreas, with potential concern for pancreatic cancer. Further evaluation by a specialist is warranted to determine the nature of the findings.
+Objective:
+The clinician, Dr. Weber, reviews the results of two scans: an initial ultrasound and a follow-up CT scan. The ultrasound indicated a suspicious area on the pancreas, prompting the more detailed CT scan. The CT scan confirmed the presence of an abnormality on the pancreas. The clinician explains the function of the pancreas and the implications of the findings, emphasizing the need for specialist consultation to determine the nature of the abnormality. The clinician provides the patient with printed information about pancreatic cancer for further reading.
 
-Plan:  
-1. Refer the patient to a specialist for further evaluation of the pancreatic findings.
-2. Provide the patient with educational materials regarding pancreatic cancer for review before the next appointment.
-3. Schedule a follow-up appointment for further discussion and to address any questions after the patient has had time to process the information.
+Assessment:
+The primary concern is a suspicious finding on the pancreas, which may indicate a type of cancer. Further evaluation by a specialist is necessary to confirm the diagnosis and determine the appropriate course of action.
+
+Plan:
+1. Refer the patient to a specialist for further evaluation of the pancreatic abnormality.
+2. Schedule a follow-up appointment with the patient to discuss the specialist's findings and potential treatment options.
+3. Provide the patient with educational materials about pancreatic cancer to review before the next appointment.
+4. Encourage the patient to return for a follow-up appointment the next day for further discussion and support.
+
+Therapist Signature: _________________________     Date: _________
+Information of clinician name, credentials, and license not found in transcript.

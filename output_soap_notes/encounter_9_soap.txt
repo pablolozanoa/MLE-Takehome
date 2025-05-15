@@ -1,24 +1,32 @@
+Client Full Name: Information not found in transcript.
+Client Date of Birth: Information not found in transcript.
+Date of Service: Information not found in transcript.
+Exact start time and end time: Information not found in transcript.
+Session Location: Information not found in transcript.
+Diagnosis: See Assessment details below.
+
 Subjective:
-The patient reports no changes in their sense of smell, vision, or hearing. They confirm they wear glasses but have not had any recent changes to their prescription. The patient denies any problems with eating or drinking and has no concerns or questions for the doctor.
+The patient did not report any changes in their sense of smell or vision. They confirmed wearing glasses and had no recent changes in prescription. The patient denied any hearing problems and reported no issues with eating or drinking, including no coughing after swallowing.
 
 Objective:
-- Cranial nerve examination performed.
-- Sense of smell: Intact, identified coffee scent.
-- Vision: Snellen chart test results normal for both eyes.
-- Pupillary response: Normal.
-- Eye movement: Normal, with intact peripheral vision.
-- Sensation on the face: Intact.
-- Blink reflex: Present.
-- Facial muscle strength: Intact, with normal movements (eyebrow raise, eye closure, teeth display, cheek puff).
-- Hearing: Intact, with successful word repetition and tuning fork tests.
-- Oral examination: No abnormalities noted; swallowing without issues.
-- Tongue movement: Normal, with no abnormalities.
+Cranial nerve examination was performed by Dr. Gill. 
+- Olfactory nerve: Patient correctly identified the smell of coffee.
+- Optic nerve: Visual acuity tested using a Snellen chart; no issues noted. Pupillary light reflex and accommodation were normal. Ophthalmoscopic examination showed no abnormalities.
+- Oculomotor, Trochlear, and Abducens nerves: Extraocular movements were intact; no diplopia or nystagmus observed. Peripheral vision was normal.
+- Trigeminal nerve: Sensation on the face was intact; corneal reflex was normal.
+- Facial nerve: Facial movements were symmetrical; no weakness noted.
+- Vestibulocochlear nerve: Hearing was intact bilaterally; tuning fork tests (Weber and Rinne) were normal.
+- Glossopharyngeal and Vagus nerves: Swallowing was normal; no dysphagia or dysarthria observed.
+- Accessory nerve: Shoulder shrug and head turn were strong and symmetrical.
+- Hypoglossal nerve: Tongue movements were normal; no atrophy or fasciculations.
 
 Assessment:
-Cranial nerves functioning normally with no deficits observed. No signs of neurological impairment.
+The cranial nerve examination was normal, indicating no neurological deficits.
 
 Plan:
-1. No further tests required at this time.
-2. No medications prescribed.
-3. Patient advised to maintain regular eye check-ups.
-4. Follow-up not necessary unless new symptoms arise.
+1. No further action required as cranial nerve examination was normal.
+2. Patient education provided regarding the findings of the examination.
+3. Advised to return if any new symptoms develop or if there are concerns in the future.
+
+Therapist Signature: _________________________     Date: _________
+Information of clinician name, credentials, and license not found in transcript.

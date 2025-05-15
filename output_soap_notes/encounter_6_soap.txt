@@ -1,19 +1,24 @@
+Client Full Name: Tell Harding
+Client Date of Birth: Information not found in transcript.
+Date of Service: Information not found in transcript.
+Exact start time and end time: Information not found in transcript.
+Session Location: Information not found in transcript.
+Diagnosis: See Assessment details below.
+
 Subjective:
-Mr. Tell Harding reports no known issues with his heart and states, "I haven't had any issues with my heart that I'm aware of." He mentions occasionally getting out of breath during exertion, such as running for the bus, but believes this is normal. He has had his blood pressure measured at annual check-ups, with no unusual findings reported. He expresses curiosity about the examination process and asks if everything seems okay.
+The patient, Tell Harding, reports no known heart problems and has not been informed of any by a doctor. He experiences occasional shortness of breath during exertion, such as running for a bus, but considers it normal. He has no shoulder problems and describes his shoulders as quite flexible. He has had his blood pressure measured before, typically during annual check-ups, and recalls it being within the normal range.
 
 Objective:
-- Cardiovascular examination performed, including assessment of hands, pulse, blood pressure, and auscultation of heart sounds.
-- Pulse: Regular and normal in both wrists.
-- Blood pressure: Within normal range (exact values not provided).
-- No abnormalities noted during examination of the face, neck, chest, abdomen, and back.
-- Lung sounds clear and equal bilaterally.
-- Abdominal examination normal to touch.
-- Pulses in feet normal; temperature and appearance of feet normal.
+A comprehensive cardiovascular examination was performed. The examiner inspected the patient's hands, face, neck, chest, and abdomen. Pulses were palpated at the wrists and below the collarbone, all of which were regular. Blood pressure was measured twice, both readings within the normal range. The examiner auscultated the heart and lungs, noting normal heart sounds and clear lung sounds. The abdomen was palpated and auscultated, with no abnormalities detected. The feet were examined for pulses, temperature, and appearance, all of which were normal.
 
 Assessment:
-Normal cardiovascular examination findings. No signs of cardiac or pulmonary issues detected during the examination. 
+The examination findings were normal. The examiner noted no abnormalities in heart sounds, lung sounds, or abdominal examination. The cardiovascular examination will be completed with an ECG, review of any chest x-rays, and blood work.
 
 Plan:
-1. Complete the cardiovascular examination with an ECG to assess the electrical activity of the heart.
-2. Review any previous chest X-rays and blood work results.
-3. No immediate follow-up required unless new symptoms arise.
+1. Complete the cardiovascular examination with an ECG.
+2. Review any available chest x-rays.
+3. Review any blood work that has been taken.
+4. Continue routine monitoring of blood pressure during annual check-ups.
+
+Therapist Signature: _________________________     Date: _________
+Information of clinician name, credentials, and license not found in transcript.

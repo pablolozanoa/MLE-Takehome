@@ -1,14 +1,34 @@
+Client Full Name: Information not found in transcript.
+Client Date of Birth: Information not found in transcript.
+Date of Service: Information not found in transcript.
+Exact start time and end time: Information not found in transcript.
+Session Location: Information not found in transcript.
+Diagnosis: See Assessment details below.
+
 Subjective:
-The patient reports feeling a little numbness in the area of a previous injury but states that sensation has returned to most areas. They mention having a history of a cut and a concussion, which may have contributed to some ongoing issues. The patient expresses concern about a slight lid lag on the left side of their face, which they attribute to the previous injury. They note that the appearance of their eye has been consistent over time and is not a significant concern for them. The patient denies any problems with hearing or wax buildup.
+The patient reports a history of a previous injury with some residual numbness in the area, but notes that sensation has returned to normal. The patient mentions a past concussion and associated redness and partial closure of the eye. The patient is aware of a slight lid lag on the left side since the injury, which they believe is not noticeable to others. The patient does not report any hearing problems or wax buildup.
 
 Objective:
-A cranial nerve examination was performed. The patient was able to follow finger movements and demonstrated appropriate responses to sensory tests. There was equal sensation noted on both sides of the face, with slight numbness in the area of the previous injury. The patient exhibited normal strength and coordination in upper and lower extremities. The lid lag on the left side was observed, but no neurological issues were identified. The patient’s eyes appeared normal aside from the noted cosmetic concern. No detailed physical examination performed beyond the cranial nerve assessment.
+A comprehensive cranial nerve examination was performed. The patient was instructed to perform various tasks to assess reflexes, strength, and coordination. The examination included:
+- Visual tracking and peripheral vision assessment.
+- Sensation testing on the forehead and face, with normal findings.
+- Facial muscle strength tests, including eye closure, forehead wrinkling, and teeth showing.
+- Tongue protrusion and jaw clenching.
+- Hearing assessment with soft noises, with normal findings.
+- Shoulder shrug and head turning tests.
+- Arm and hand coordination and strength tests, including finger-to-nose and rapid alternating movements.
+- Leg strength tests, including knee lifting and resistance.
+- Ankle vibration sensation test, with normal findings.
+- Observation of a slight lid lag on the left eye, attributed to soft tissue changes post-injury, not neurological in nature.
 
 Assessment:
-The primary assessment indicates that the patient has residual effects from a previous concussion and facial injury, specifically a cosmetic lid lag on the left side. No neurological deficits were identified, and the numbness reported appears to be minimal and localized. Overall, the patient is stable with no acute issues.
+The primary impression is that the patient has residual cosmetic changes from a previous injury, specifically a slight lid lag on the left eye. This is not considered a neurological issue but rather a cosmetic one due to soft tissue changes. No other abnormalities were noted in the cranial nerve examination.
 
 Plan:
-1. Continue to monitor the cosmetic appearance of the left eyelid; no immediate intervention required.
-2. Reassure the patient that the lid lag is likely due to soft tissue changes rather than a neurological issue.
-3. Advise the patient to return for follow-up if there are any changes in symptoms or if they develop new concerns.
-4. Consider referral to a specialist (e.g., ophthalmologist) if the cosmetic concern becomes bothersome to the patient.
+1. Continue monitoring the cosmetic appearance of the left eye lid lag.
+2. No further neurological testing is deemed necessary at this time.
+3. Reassure the patient that the lid lag is minimal and not noticeable to others.
+4. Follow up as needed if any new symptoms arise.
+
+Therapist Signature: _________________________     Date: _________
+Information of clinician name, credentials, and license not found in transcript.

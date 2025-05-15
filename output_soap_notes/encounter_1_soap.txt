@@ -1,14 +1,24 @@
+Client Full Name: Information not found in transcript.
+Client Date of Birth: July 31st, 1997
+Date of Service: Information not found in transcript.
+Exact start time and end time: Information not found in transcript.
+Session Location: Information not found in transcript.
+Diagnosis: See Assessment details below.
+
 Subjective:
-Patient reports experiencing dull, throbbing headaches for the past week, worsening with stress related to thesis defense and lab setup. Headaches are primarily located on the right side of the head and rated as a 5/10 in intensity, lasting a couple of hours. Patient denies nausea, vomiting, or aura symptoms. No significant changes in headache pattern noted, though they have become slightly worse since onset. Patient has a history of seasonal allergies and eczema, currently managed with Benadryl. Family history includes mother with hypothyroidism, father with high cholesterol and blood pressure, and a grandmother who died of brain cancer, which has caused patient concern regarding current symptoms. Patient consumes 1-2 cups of coffee daily, occasional alcohol on weekends, and exercises 3-4 times a week. No tobacco or recreational drug use reported.
+The patient, a graduate student, reports experiencing headaches for about a week, which have worsened. The headaches are described as dull and throbbing, primarily located on one side of the head, and are exacerbated by stress related to thesis defense and work. The pain is rated as a 5 out of 10 and lasts for a couple of hours. The patient has been using Excedrin Migraine, which provides relief. There is no associated nausea, vomiting, or aura. The patient consumes one to two cups of coffee daily, drinks alcohol occasionally, and does not use tobacco or recreational drugs. Past medical history includes seasonal allergies and eczema, with current use of Benadryl for allergies. Family history includes a mother with hypothyroidism, a father with high cholesterol and blood pressure, and a grandmother who died of brain cancer, which concerns the patient.
 
 Objective:
-Physical examination findings include normal heart and lung sounds. Neurological examination shows no signs of weakness, numbness, or tingling. Tenderness noted in the neck during osteopathic manipulative therapy. No detailed physical examination performed.
+Physical examination was conducted by a medical student. Cardiovascular exam: Heart auscultated, sounds normal. Respiratory exam: Lungs auscultated, sounds normal. Neurological exam: Cranial nerves assessed; eyes followed finger, facial symmetry tested, shoulder shrug against resistance, all normal. Osteopathic manipulative therapy (OMT) was performed on the neck to relieve tension. The patient reported feeling looser and better post-OMT.
 
 Assessment:
-Possible tension headache likely related to stress and muscle tension. Concerns regarding family history of brain cancer noted but not supported by current symptoms.
+The clinician's impression is that the patient is experiencing tension headaches likely due to stress. The symptoms do not suggest a serious condition such as brain cancer, which was a concern for the patient.
 
 Plan:
 1. Continue using Excedrin Migraine as needed for headache relief.
-2. Provide self-stretching exercises to alleviate neck tension.
-3. Consider follow-up with a physician for further evaluation and management.
-4. Discuss potential need for imaging or further neurological assessment if symptoms persist or worsen.
+2. Perform self-stretches at home to alleviate neck tension.
+3. Consider further evaluation with a fundoscopic exam to rule out other causes of headache.
+4. Follow up with the primary care physician if symptoms persist or worsen.
+
+Therapist Signature: _________________________     Date: _________
+Information of clinician name, credentials, and license not found in transcript.

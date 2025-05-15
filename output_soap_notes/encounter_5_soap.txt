@@ -1,14 +1,25 @@
-Subjective:  
-Mr. Samara reports that his son, Ramish, a 4-year-old, was admitted to the hospital with meningitis after initially being seen by Dr. Jones for a sore throat and flu-like symptoms. Mr. Samara expressed significant distress, stating, "I'm just distraught, I'm upset, I'm angry." He feels that Dr. Jones did not take his concerns seriously when he suggested that Ramish might have meningitis, and he is frustrated that Dr. Jones did not prescribe antibiotics, claiming it was a viral issue. Mr. Samara followed Dr. Jones's advice but noted that Ramish's condition worsened, leading to drowsiness and vomiting, necessitating an emergency visit where Ramish was admitted and treated with IV fluids and antibiotics. Mr. Samara is concerned about his son's future and is considering filing a complaint against Dr. Jones.
+Client Full Name: Information not found in transcript.
+Client Date of Birth: Information not found in transcript.
+Date of Service: Information not found in transcript.
+Exact start time and end time: Information not found in transcript.
+Session Location: Information not found in transcript.
+Diagnosis: Information not found in transcript.
 
-Objective:  
-Objective information limited to dialogue. No detailed physical examination performed.
+Subjective:
+The patient, Mr. Samara, is very upset and distraught over the care his son, Ramesh, received. Ramesh, a four-year-old boy, had been experiencing a sore throat and flu-like symptoms. Mr. Samara was concerned about meningitis due to a public health alert at his son's school and requested antibiotics from Dr. Jones, who declined, stating it was a viral issue. Mr. Samara followed Dr. Jones's advice to administer ibuprofen, but Ramesh's condition worsened, leading to drowsiness and vomiting. Mr. Samara expressed frustration with the difficulty in reaching the clinic and the lack of follow-up from the duty doctor. Ramesh was eventually admitted to the hospital, where he received IV fluids and antibiotics. Mr. Samara is worried about his son's future and is considering filing a complaint against Dr. Jones.
 
-Assessment:  
-Diagnostic impression: Meningitis in a 4-year-old child, likely viral in origin, with significant parental distress regarding the initial management and care provided by Dr. Jones.
+Objective:
+The clinician, Dr. Gim, acknowledges Mr. Samara's distress and confirms the details of Ramesh's initial visit with Dr. Jones. Dr. Jones performed a limited examination, including taking Ramesh's temperature and examining his throat. No further physical examination details are provided. Ramesh is currently hospitalized and stable, receiving treatment for meningitis.
 
-Plan:  
-1. Acknowledge the complaint and initiate an internal investigation regarding the care provided by Dr. Jones.
-2. Communicate with Mr. Samara regarding the investigation process and ensure he receives a follow-up phone call today and a written response within three days.
-3. Discuss the case with the senior partner, Dr. Smith, and conduct a root cause analysis of the events leading to Ramish's hospitalization.
-4. Offer Mr. Samara the opportunity to escalate the complaint if he is not satisfied with the outcome of the investigation.
+Assessment:
+The clinician recognizes the need to investigate the care provided to Ramesh and the communication issues experienced by Mr. Samara. The clinician reassures Mr. Samara that the practice will conduct a thorough review of the events and involve him in the process.
+
+Plan:
+1. Speak with Dr. Smith, the senior partner, to initiate a practice meeting and review the care provided to Ramesh.
+2. Ensure the practice manager contacts Mr. Samara to acknowledge his complaint and explain the complaint process within three days.
+3. Conduct a root cause analysis to identify any opportunities for improvement in the care provided.
+4. Offer Mr. Samara the opportunity to speak with Dr. Jones for an apology if desired.
+5. Provide Mr. Samara with information on how to escalate the complaint if he is not satisfied with the outcome.
+
+Therapist Signature: _________________________     Date: _________
+Information of clinician name, credentials, and license not found in transcript.

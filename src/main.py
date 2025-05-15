@@ -1,7 +1,7 @@
 import os
-from .process_transcript import generate_soap_note_from_transcript # Ensure this import works
+from .process_transcript import generate_soap_note_from_transcript
 
-TRANSCRIPTS_DIR = "transcripts"       # Relative to project root
+TRANSCRIPTS_DIR = "transcripts"   # Relative to project root
 OUTPUT_DIR = "output_soap_notes"  # Relative to project root
 
 def process_all_transcripts():
@@ -9,13 +9,10 @@ def process_all_transcripts():
     Iterates over all transcript files in TRANSCRIPTS_DIR,
     generates a SOAP note for each, and saves it to OUTPUT_DIR.
     """
-    # Construct absolute paths based on the script's location if needed,
-    # but if running with `python -m src.main` from project root,
-    # relative paths from project root should work.
+
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
     transcripts_full_path = os.path.join(project_root, TRANSCRIPTS_DIR)
     output_full_path = os.path.join(project_root, OUTPUT_DIR)
-
 
     if not os.path.exists(transcripts_full_path):
         print(f"Transcripts directory not found: {transcripts_full_path}")
@@ -35,7 +32,6 @@ def process_all_transcripts():
 
     for filename in transcript_files:
         transcript_file_path = os.path.join(transcripts_full_path, filename)
-        # Output filename will be like 'encounter_1_soap.txt'
         output_filename = os.path.splitext(filename)[0] + "_soap.txt"
         output_file_path = os.path.join(output_full_path, output_filename)
 
@@ -62,6 +58,10 @@ def process_all_transcripts():
             print(f"Error processing file {filename}: {e}")
 
 if __name__ == "__main__":
+    """
+    Processes and returns SOAP notes for all the .txt files existing in "transcripts" folder
+    """
+    
     print("Starting SOAP note generation process...")
     process_all_transcripts()
     print("\nProcess completed.")
