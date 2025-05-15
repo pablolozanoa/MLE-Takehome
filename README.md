@@ -63,6 +63,7 @@ MLE-Takehome/
 ├── README.md                       # This file
 ├── requirements.txt                # Python dependencies
 └── streamlit_app.py                # Main Streamlit application file
+```
 
 ## 5. Setup Instructions
 
