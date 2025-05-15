@@ -16,7 +16,7 @@ As a reference for the SOAP note structure, the [Wikipedia article on SOAP notes
 -   **A: Assessment** – Diagnosis or clinical impression of the professional.
 -   **P: Plan** – Next steps: treatments, testing, referrals, education, follow-up.
 
-An example SOAP note was also provided in `./example_notes/Medical Visit SOAP Note.pdf` (though its content is therapy-focused, the S-O-A-P structure is relevant).
+An example SOAP note is also provided in `./example_notes/Medical Visit SOAP Note.pdf`.
 
 ## 2. Features
 
@@ -31,25 +31,28 @@ An example SOAP note was also provided in `./example_notes/Medical Visit SOAP No
 ## 3. Project Structure
 
 ```plaintext
-cofactor_ai_takehome/
-├── transcripts/                    # Input medical transcripts (.txt files)
+MLE-Takehome/
+├── example_notes/
+│ ├── Complex ERM Note.pdf          
+│ ├── Medical Visit SOAP Note.pdf   
+│ └── Simple EMR Note.pdf           
+├── images/
+│ └── section1_architecture.png     # Diagram image
 ├── output_soap_notes_txt/          # Output directory for .txt SOAP notes (batch mode)
 ├── output_soap_notes_pdf/          # Output directory for .pdf SOAP notes (batch mode)
 ├── src/
 │ ├── init.py
-│ ├── streamlit_app.py              # Main Streamlit application file
 │ ├── process_transcript.py         # Core LLM interaction and SOAP note generation logic
 │ ├── prompts.py                    # Detailed prompt template for the LLM
 │ ├── reduced_prompts.py            # Token-optimized prompt template
 │ ├── pdf_generator.py              # Utility to convert text SOAP note to PDF
 │ └── main.py                       # Script for batch processing transcripts
-├── docs/
-│ └── images/
-│ └── section1_architecture.png     # Diagram image
+├── transcripts/                    # Input medical transcripts (.txt files)
 ├── .env                            # For OpenAI API Key (MUST be filled by user)
 ├── .gitignore
 ├── README.md
-└── requirements.txt                # Python dependencies
+├── requirements.txt                # Python dependencies
+└── streamlit_app.py                # Main Streamlit application file
 ```
 
 ## 4. Setup Instructions
@@ -63,14 +66,14 @@ cofactor_ai_takehome/
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your_repository_url>
-    cd cofactor_ai_takehome
+    git clone https://github.com/pablolozanoa/MLE-Takehome
+    cd MLE-Takehome
     ```
 
 2.  **Create and Activate Python Environment:**
     *   Using Conda:
         ```bash
-        conda create --name cofactor_env python=3.9
+        conda create --name cofactor_env python=3.10
         conda activate cofactor_env
         ```
     *   Using `venv`:
@@ -83,7 +86,6 @@ cofactor_ai_takehome/
     ```bash
     pip install -r requirements.txt
     ```
-    (Ensure `requirements.txt` includes `openai`, `python-dotenv`, `streamlit`, and your PDF generation library e.g., `reportlab` or `fpdf2`).
 
 4.  **Set Up Environment Variables:**
     *   Create a file named `.env` in the root directory of the project (`cofactor_ai_takehome/.env`).
@@ -201,6 +203,3 @@ The LLM is used for its unique natural language understanding and generation cap
 *   **Evaluation Metrics:** For more rigorous development, implement metrics to evaluate the quality of generated SOAP notes against a gold standard (if available).
 *   **Alternative LLM Backends:** Explore integration with other LLM providers or open-source models to offer more flexibility and potentially reduce costs (e.g., using Ollama for local models).
 *   **Security & Compliance (for production):** If used in a real clinical setting, rigorous security audits and compliance with healthcare data regulations (e.g., HIPAA) would be paramount.
-
----
-**Disclaimer:** This tool is AI-generated and intended for demonstration or assistive purposes. All outputs should be carefully reviewed and verified by a qualified healthcare professional before being used in any clinical decision-making or official medical records.
