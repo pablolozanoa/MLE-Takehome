@@ -81,7 +81,7 @@ MLE-Takehome/
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/pablolozanoa/MLE-Takehome
+    git clone https://github.com/pablolozanoa/MLE-Takehome.git
     cd MLE-Takehome
     ```
 
@@ -103,12 +103,11 @@ MLE-Takehome/
     ```
 
 4.  **Set Up Environment Variables:**
-    *   Create a `.env` file in the project root (`MLE-Takehome/.env`).
-    *   Add your OpenAI API key:
+    *   Modify the `.env` file in the project root (`MLE-Takehome/.env`) to add your OpenAI API key:
         ```env
-        OPENAI_API_KEY="your_sk-xxxxxxxxxxxxxxxxxxxx_key_here"
+        OPENAI_API_KEY="enter your openapi key here"
         ```
-    *   This file is ignored by Git via `.gitignore`.
+    *   This file will be ignored by Git via `.gitignore` to avoid uploading the key.
 
 ## 6. How to Run
 
